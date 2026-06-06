@@ -1,6 +1,6 @@
 # extension
 
-新版浏览器插件，目前只支持gpt-image-2的模型
+新版浏览器插件，目前gpt-image-2 和Gemini 家的模型
 
 # 提示
 1. 更新流模式请求
